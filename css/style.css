@@ -87,3 +87,18 @@ div.jumboscreen {
     height: 600px;
     margin-top: 50px;
 }
+
+.enterprise-box {
+
+    height: 200px;
+    background-color: greenyellow;
+    margin-top: 50px;
+
+}
+
+div.photo-box {
+
+    height: 350px;
+    background-color: black;
+    margin-top: 100px;
+}
