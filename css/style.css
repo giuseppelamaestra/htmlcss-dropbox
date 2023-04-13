@@ -140,3 +140,29 @@ div.square-logo {
     background-color: gold;
     border: solid 1px black;
 }
+
+section.adv-banner {
+
+    background-color: aqua;
+
+    height: 250px;
+
+
+}
+
+div.faq-box {
+
+    height: 300px;
+    background-color: brown;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+
+}
+
+footer.footer-section {
+
+    background-color: black;
+    height: 500px;
+}
