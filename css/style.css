@@ -123,3 +123,20 @@ div.second-box-row {
 
     margin-bottom: 100px;
 }
+
+
+div.square-box {
+
+    width: calc(100% / 3);
+    background-color: coral;
+    border: solid 1px black;
+    height: 400px;
+}
+
+div.square-logo {
+
+    width: calc(100% / 2);
+    height: calc(100% / 2);
+    background-color: gold;
+    border: solid 1px black;
+}
