@@ -63,3 +63,27 @@ div.jumboscreen {
 
     background-color: aqua;
 }
+
+
+.container2 {
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.h1-ratio-box {
+
+    height: 150px;
+    background-color: aqua;
+    margin-top: 100px;
+}
+
+
+.column {
+
+    width: calc(100% / 3);
+    background-color: magenta;
+    border: solid 10px white;
+    height: 600px;
+    margin-top: 50px;
+}
