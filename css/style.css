@@ -96,6 +96,11 @@ div.jumbo-column-small {
 .button-trial {
     margin-top: 20px;
     margin-bottom: 20px;
+    border: none;
+    background-color: rgba(14, 110, 234, 0.924);
+    padding: 10px;
+    color: white;
+
 }
 
 
@@ -155,13 +160,47 @@ ul {
     width: 20%;
 }
 
+section.icon {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.icons-column-ul {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
 .enterprise-box {
 
     height: 200px;
-    background-color: greenyellow;
+   border: 1px solid lightgray;
     margin-top: 50px;
 
 }
+
+.team-section {
+
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+section.ufficio-vendite {
+    position: relative;
+    padding: 20px;
+}
+
+button.ufficio-vendite-button {
+    position: absolute;
+    right: 20px;
+    top: 0;
+}
+
 
 div.photo-box {
 
