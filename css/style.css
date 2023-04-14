@@ -40,6 +40,12 @@ li {
 }
 
 
+header nav {
+    align-items: center;
+}
+
+
+
 img {
 
     height: 20px;
