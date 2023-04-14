@@ -113,12 +113,22 @@ section div img {
     margin: 0 auto;
 }
 
-.h1-ratio-box {
+.h2-radio-box {
 
     height: 150px;
-    background-color: aqua;
+    
     margin-top: 100px;
+
 }
+
+div h2 {
+    font-size: 2rem;
+}
+
+div.radio-buttons { 
+    margin-top: 40px;
+}
+
 
 
 .column {
