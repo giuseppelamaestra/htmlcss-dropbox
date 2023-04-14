@@ -143,6 +143,10 @@ div.radio-buttons {
     margin-top: 50px;
 }
 
+.inside-column {
+    padding: 20px 20px;
+}
+
 ul {
     list-style-type: none;
 }
