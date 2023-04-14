@@ -61,10 +61,10 @@ img {
 div.jumboscreen {
 
    
-    background-color: red;
-    padding-top: 200px;
+   
+    
     position: relative;
-    top: 50px;
+    top: 35px;
 
 }
 
@@ -72,22 +72,38 @@ div.jumboscreen {
 
     height: 600px;
 
-    background-color: aqua;
+    background-color: rgb(179, 208, 231);
+    padding: 50px;
 }
 
 div.jumbo-column-big {
 
     height: 400px;
     width: 70%;
-    background-color: rosybrown;
+    
 }
 
 div.jumbo-column-small {
     height: 400px;
     width: 30%;
-    background-color: orchid;
+    
 }
 
+
+.button-trial {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+div h1 {
+    font-size: 4.5rem;
+}
+
+section div img {
+    height: 100%;
+}
 
 
 
