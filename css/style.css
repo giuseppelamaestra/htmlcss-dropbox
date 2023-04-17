@@ -223,18 +223,42 @@ div.photo-mens-box img {
     height: 100%;
 }
 
+
 div.single-box {
 
     width: calc(100% / 3);
-    background-color: blue;
+   
     border: 5px solid white;
-    height: 300px;
+    height: 400px;
     
 }
 
+
+div.h2-box {
+    width: 100%;
+   
+    margin-top: 100px;
+   
+    
+}
+
+div.single-box img {
+    height: 50%;
+    
+}
+
+
+div.sponsor-box {
+    height: 150px;
+    width: 100%;
+    padding-right: 220px;
+}
+
+
+
 div.first-box-row {
 
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 div.second-box-row {
