@@ -279,9 +279,22 @@ div.square-logo {
 
     width: calc(100% / 2);
     height: calc(100% / 2);
-    background-color: gold;
+    
+    text-align: center;
+   
     border: solid 1px black;
 }
+
+div.square-logo img {
+    width: 50%;
+    filter: invert(1);
+}
+
+.img-university-florida {
+    height: 20px;
+    margin: auto;
+}
+
 
 section.adv-banner {
 
